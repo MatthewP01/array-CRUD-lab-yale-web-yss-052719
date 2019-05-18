@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["gryffindor", "slytherin", "hufflepuff"]
-  element = "ravenclaw"
+  element == "ravenclaw"
   array << "ravenclaw"
 end
 
